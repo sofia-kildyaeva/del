@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\ConsoleApplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\ConsoleApplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\ConsoleApplication\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\ConsoleApplication\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\ConsoleApplication\ConsoleApplication1\bin\Debug\DataFile.txt
